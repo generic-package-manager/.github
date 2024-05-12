@@ -1,5 +1,5 @@
 <div align="center">
-    <img src=".images/banner.png" />
+    <img src="https://raw.githubusercontent.com/generic-package-manager/.github/main/profile/.images/banner.png" />
     <h1>Meet GPM<h1/>
     <h3>The package manager with the superpowers of cross platform build tool.<h3/>
 </div>
